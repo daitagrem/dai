@@ -3088,14 +3088,14 @@
 	}
 
 	#banner {
-		padding: 16em 0 13em 0;
-		background-attachment: fixed;
-		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
-		background-position: center top;
-		background-size: cover;
-		line-height: 1.75;
-		text-align: center;
-	}
+    padding: 16em 0 13em 0;
+    background-attachment: fixed;
+    background-image: url(images/overlay.png), url(../../images/banner_old.jpg);
+    background-position: center top;
+    background-size: cover;
+    line-height: 1.75;
+    text-align: center;
+}
 
 		#banner:last-child {
 			margin-bottom: 0;
