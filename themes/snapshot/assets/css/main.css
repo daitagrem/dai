@@ -1080,11 +1080,12 @@
 					font-size: 2em;
 				}
 
-		ul.actions {
-			cursor: default;
-			list-style: none;
-			padding-left: 0;
-		}
+				ul.actions {
+					cursor: default;
+					list-style: none;
+					padding-left: 0;
+					text-align: center;
+				}
 
 			ul.actions li {
 				display: inline-block;
@@ -1529,6 +1530,7 @@
 		#banner p {
 			font-size: 1.5em;
 			margin-bottom: 1.75em;
+			text-align: center;
 		}
 
 		#banner a {
