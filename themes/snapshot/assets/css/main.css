@@ -1481,10 +1481,6 @@
 	color: #FFF;
 }
 
-#banner h1{
-	font-family: 'Pacifico',serif;
-}
-
 		#banner:before {
 			-moz-transition: opacity 3s ease;
 			-webkit-transition: opacity 3s ease;
@@ -1522,12 +1518,15 @@
 		}
 
 		#banner h1 {
-			font-size: 4em;
+			font-size: 3em;
 			line-height: 1em;
-			margin: 0 0 0.5em 0;
+			margin: 1em 0 0.5em 0;
 			padding: 0;
 			color: #FFF;
-			text-align:center;
+			text-align: center;
+		}
+		#banner h2{
+			font-family: 'Pacifico',serif;
 		}
 
 		#banner p {
