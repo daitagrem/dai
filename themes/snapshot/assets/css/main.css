@@ -1451,6 +1451,7 @@
 
 
 #banner {
+	font-family: 'Pacifico',serif;
 	opacity: 0.9;
 	display: -ms-flexbox;
 	-ms-flex-pack: center;
@@ -1472,7 +1473,7 @@
 	 height: 75vh;
 	position: relative;
 	background-color: #9db63b;
-	/*background-image: url(../../images/banner_old.jpg);*/
+	background-image: url(../../images/banner2.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
