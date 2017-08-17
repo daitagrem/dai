@@ -1451,7 +1451,6 @@
 
 
 #banner {
-	font-family: 'Pacifico',serif;
 	opacity: 0.9;
 	display: -ms-flexbox;
 	-ms-flex-pack: center;
@@ -1482,7 +1481,9 @@
 	color: #FFF;
 }
 
-
+#banner h1{
+	font-family: 'Pacifico',serif;
+}
 
 		#banner:before {
 			-moz-transition: opacity 3s ease;
